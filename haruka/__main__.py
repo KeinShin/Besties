@@ -24,7 +24,7 @@ PM_START = """Hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you
 
-I'm group manager bot and Anti-spam for Lightning
+I'm  powerfull group manager bot and Anti-spam for [💕💕✌️ BE̗̎S̡͝T͕͝I̤̍Ê̮Sͧ͟ ✌️ 💕💕](https://t.me/besties114)
 
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
@@ -142,7 +142,7 @@ def start(bot: Bot, update: Update, args: List[str]):
         else:
             send_start(bot, update)
     else:
-        update.effective_message.reply_text("I'm alive")
+        update.effective_message.reply_text("I'm Here 💕💕✌️ BE̗̎S̡͝T͕͝I̤̍Ê̮Sͧ͟ ✌️ 💕💕 What You Want Me Do?")
 
 def send_start(bot, update):
     #Try to remove old message
@@ -212,7 +212,7 @@ def control_panel(bot, update):
                 text += f"\nConnected chat - *{chatG.title}* (you sudo)"
                 keyboard += [[InlineKeyboardButton(text="👥 Group settings (SUDO)", callback_data="cntrl_panel_G_back")]]
             else:
-                text += f"\nConnected chat - *{chatG.title}* (you aren't an admin!)"
+                text += f"\nConnected chat - *{chatG.title}* (you aren't an admin!are you serious?)"
         else:
             text += "\nNo chat connected!"
 

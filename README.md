@@ -2,7 +2,7 @@
 [Watch video tutorial on deploying](https://youtu.be/gXXFpTAk6Vo)
 
 # Kenshin
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Anmol-dot283/Kenshinn)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Anmol-dot283/Besties)
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 

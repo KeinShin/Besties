@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/Anmol-dot283/Kenshinn",
+  "repository": "https://github.com/Anmol-dot283/Besties",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -21,7 +21,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "719195224"
+      "value": "1311769691"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
